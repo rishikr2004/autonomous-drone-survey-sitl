@@ -1,0 +1,27 @@
+Run: 20261108_024444_549959
+Flight sequence completed: True
+Recorded samples: 278
+Recording duration (includes setup and landing): 138.5 s
+Error metrics below use the middle 80% of each labelled straight survey pass.
+Passes represented: 7 of 7
+Missing pass destination IDs: []
+Samples used for errors: 56
+Mean absolute cross-track error: 0.046 m
+Cross-track RMSE: 0.054 m
+Maximum sampled cross-track error: 0.095 m
+Mean absolute altitude error: 0.007 m
+Maximum sampled altitude error: 0.023 m
+Final recorded horizontal offset from origin: 0.045 m
+
+Per-pass sample counts and maximum sampled cross-track error:
+Destination 1: 8 samples, max 0.009 m
+Destination 3: 8 samples, max 0.095 m
+Destination 5: 8 samples, max 0.080 m
+Destination 7: 8 samples, max 0.084 m
+Destination 9: 8 samples, max 0.078 m
+Destination 11: 8 samples, max 0.073 m
+Destination 13: 8 samples, max 0.063 m
+
+Limits: simulated telemetry, approximately 2 Hz. Phase labels reflect script state at reception.
+Turn overshoot, connectors and return are excluded from the error metrics. Unsampled peaks may be missed.
+These metrics measure tracking, not map accuracy or image quality.

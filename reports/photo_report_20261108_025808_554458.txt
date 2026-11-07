@@ -1,0 +1,37 @@
+Run: 20261108_025808_554458
+Flight sequence completed: True
+Simulated photo events: 119
+Requested spacing: 1.657 m
+No images were captured; these are software event records.
+Median telemetry interval: 0.050 s (approximately 20.0 Hz)
+Pass ending at destination 1: 17 events
+  First event: 0.011 m into pass; last event: 0.500 m before end
+  Spacing min/mean/max: 1.681 / 1.843 / 1.981 m
+Pass ending at destination 3: 17 events
+  First event: 0.022 m into pass; last event: 0.367 m before end
+  Spacing min/mean/max: 1.714 / 1.851 / 2.004 m
+Pass ending at destination 5: 17 events
+  First event: 0.011 m into pass; last event: 0.656 m before end
+  Spacing min/mean/max: 1.659 / 1.833 / 1.981 m
+Pass ending at destination 7: 17 events
+  First event: 0.011 m into pass; last event: 0.378 m before end
+  Spacing min/mean/max: 1.725 / 1.851 / 1.993 m
+Pass ending at destination 9: 17 events
+  First event: 0.011 m into pass; last event: 0.667 m before end
+  Spacing min/mean/max: 1.659 / 1.833 / 1.981 m
+Pass ending at destination 11: 17 events
+  First event: 0.011 m into pass; last event: 0.378 m before end
+  Spacing min/mean/max: 1.737 / 1.851 / 2.004 m
+Pass ending at destination 13: 17 events
+  First event: 0.011 m into pass; last event: 0.434 m before end
+  Spacing min/mean/max: 1.725 / 1.847 / 1.981 m
+Largest observed along-pass spacing: 2.004 m
+Smallest estimated forward overlap between consecutive events: 75.8%
+
+Interpretation:
+Distance is checked at received position updates. Events can be farther apart than requested.
+The first eligible sample starts each pass; endpoints are not forced captures.
+Event counts need not equal the planned preview count.
+Overlap assumes the preview's fixed footprint, flat ground and camera alignment.
+It does not account for yaw, tilt, exposure latency, image quality or map accuracy.
+Phase labels reflect script state when telemetry is received.

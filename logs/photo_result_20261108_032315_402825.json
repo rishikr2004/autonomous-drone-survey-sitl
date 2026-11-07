@@ -1,0 +1,21 @@
+{
+  "completed": false,
+  "camera_settings": {
+    "field_length_m": 30.0,
+    "field_width_m": 20.0,
+    "height_above_ground_m": 10.0,
+    "cross_track_fov_deg": 60.0,
+    "along_track_fov_deg": 45.0,
+    "side_overlap": 0.7,
+    "front_overlap": 0.8,
+    "footprint_width_m": 11.547005383792515,
+    "footprint_length_m": 8.2842712474619,
+    "lane_spacing_m": 3.464101615137755,
+    "photo_spacing_m": 1.6568542494923797,
+    "assumptions": "Flat ground, nadir camera, footprint axes aligned east/north; ideal geometry only. Photos along passes only; return leg excluded."
+  },
+  "photo_events": 16,
+  "trigger_spacing_m": 1.2568542494923798,
+  "trigger_margin_m": 0.4,
+  "variant": "earlier_trigger_v1"
+}

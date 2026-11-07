@@ -1,0 +1,43 @@
+Run: 20261108_030711_020785
+Flight sequence completed: True
+Simulated photo events: 154
+Requested spacing: 1.657 m
+No images were captured; these are software event records.
+Median telemetry interval: 0.050 s (approximately 20.0 Hz)
+Trigger threshold used: 1.257 m
+Pass ending at destination 1: 22 events
+  First event: 0.000 m into pass; last event: 0.022 m before end
+  Spacing min/mean/max: 1.280 / 1.428 / 1.603 m
+Pass ending at destination 3: 22 events
+  First event: 0.022 m into pass; last event: 0.045 m before end
+  Spacing min/mean/max: 1.280 / 1.425 / 1.592 m
+Pass ending at destination 5: 22 events
+  First event: 0.011 m into pass; last event: 0.267 m before end
+  Spacing min/mean/max: 1.258 / 1.415 / 1.592 m
+Pass ending at destination 7: 22 events
+  First event: 0.022 m into pass; last event: 0.256 m before end
+  Spacing min/mean/max: 1.258 / 1.415 / 1.581 m
+Pass ending at destination 9: 22 events
+  First event: 0.000 m into pass; last event: 0.055 m before end
+  Spacing min/mean/max: 1.280 / 1.426 / 1.603 m
+Pass ending at destination 11: 22 events
+  First event: 0.011 m into pass; last event: 0.278 m before end
+  Spacing min/mean/max: 1.258 / 1.415 / 1.592 m
+Pass ending at destination 13: 22 events
+  First event: 0.000 m into pass; last event: 0.077 m before end
+  Spacing min/mean/max: 1.280 / 1.425 / 1.592 m
+Intervals above planned maximum: 0 of 147
+Passes without events: []
+Passes with fewer than two events: []
+Observed spacing check: PASS
+Largest observed along-pass spacing: 1.603 m
+Smallest estimated forward overlap between consecutive events: 80.7%
+
+Interpretation:
+Distance is checked at received position updates. Spacing can exceed the trigger threshold.
+The first eligible sample starts each pass; endpoints are not forced captures.
+Event counts need not equal the planned preview count.
+Overlap assumes the preview's fixed footprint, flat ground and camera alignment.
+This check covers consecutive events within passes, not full area coverage or repeatability.
+It does not account for yaw, tilt, exposure latency, image quality or map accuracy.
+Phase labels reflect script state when telemetry is received.
